@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi my name is Will Cunliffe
 
-<!--
-**GHSTHide/GHSTHide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student studying Salesforce Development at Mission Ready HQ in New Zealand
 
-Here are some ideas to get you started:
+I currently live in Christchurch, New Zealand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have started my Journey of learning with both the use of Resources on Trailhead as well as Instructor led classes.
+
+Salesforce Certifications I am working towards:
+Salesforce Certified Administrator, Salesforce Certified Platform App Builder, Salesforce Certified Platform Developer 1
+
+
+You can find me on:
+* [Salesforce Trailhead](https://trailblazer.me/id/willcunliffe)
+* [GitHub as @GHSTHide (you are here)](https://github.com/GHSTHide)
+* [LinkedIn](https://www.linkedin.com/in/will-cunliffe-465898233/)
